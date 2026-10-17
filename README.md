@@ -24,3 +24,8 @@ Every release contains:
 
 Semantic versioning. Every release must bump the version — the updater compares tags,
 so shipping the same version twice silently skips the update for existing installs.
+
+## License & Terms
+
+- [LICENSE](LICENSE) — MIT License
+- [TERMS.md](TERMS.md) — Terms of Use for the SCAAI Desktop release artifacts

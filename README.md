@@ -24,6 +24,15 @@ Source code is **not** published here.
 | `SCAAI-<version>-universal.dmg.blockmap` | Differential update map for the DMG |
 | `SCAAI-<version>-mac-universal.zip.blockmap` | Differential update map for the zip |
 
+## Latest release: v5.3.6
+
+Published 2026-10-24 (macOS artifacts added 2026-10-25).
+
+- **Windows:** `SCAAI-Setup-5.3.6-x64.exe` + `latest.yml` + blockmap
+- **macOS (universal):** `SCAAI-5.3.6-universal.dmg` + `SCAAI-5.3.6-mac-universal.zip` + `latest-mac.yml` + both blockmaps
+
+Download from the [v5.3.6 release](https://github.com/Nooran3994/SCAAI-COMMUNITY/releases/tag/v5.3.6).
+
 ## Run Environment
 
 | Component | Requirement |

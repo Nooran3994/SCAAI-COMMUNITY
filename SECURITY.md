@@ -4,7 +4,7 @@
 
 We take security seriously. If you discover a vulnerability in SCAAI Desktop, please report it privately — **do not open a public issue**.
 
-**Report via email:** security@scaai.app
+**Report via email:** agents@systemprompts.site
 
 Please include:
 - The version of SCAAI Desktop affected

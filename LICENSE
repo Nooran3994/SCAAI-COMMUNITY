@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 SCAAI COMMUNITY
+Copyright (c) 2026 SCAAI (Nooran3994)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,22 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Trademark Notice
+
+The SCAAI name, logo, and associated branding (collectively, the "SCAAI Marks")
+are trademarks of SCAAI and are NOT covered by the MIT license above.
+
+The MIT license applies only to the community content in this repository:
+documentation, templates, issue templates, and community scripts.
+
+The SCAAI software product itself is proprietary and is not distributed
+through this repository. The SCAAI Marks may not be used, copied, or
+reproduced in any form, including in forks, derivatives, or promotional
+materials, without prior written permission.
+
+Forks and derivative works of this repository's content must not use the
+SCAAI name or logo in a way that suggests affiliation with or endorsement
+by the SCAAI project.

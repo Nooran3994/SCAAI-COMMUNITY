@@ -1,8 +1,17 @@
-# SCAAI COMMUNITY — Releases
+# SCAAI COMMUNITY
 
-This repository hosts **only release artifacts** for SCAAI Desktop.
+The public home of the SCAAI Desktop community: **releases**, **reviews**, **bug reports**, **feature ideas**, and **documentation**.
 
-Source code is **not** published here.
+- 📦 **Download** the latest SCAAI from [Releases](https://github.com/Nooran3994/SCAAI-COMMUNITY/releases)
+- 🐛 **Report a bug** — [bug report](https://github.com/Nooran3994/SCAAI-COMMUNITY/issues/new?template=bug_report.md)
+- ⭐ **Share a review** — [review](https://github.com/Nooran3994/SCAAI-COMMUNITY/issues/new?template=review_share.md)
+- 💡 **Suggest a feature** — [feature request](https://github.com/Nooran3994/SCAAI-COMMUNITY/issues/new?template=feature_request.md)
+- 🗺️ **See what's next** — [ROADMAP](ROADMAP.md)
+- 🤝 **How to contribute** — [CONTRIBUTING](CONTRIBUTING.md)
+
+> **Note:** this repository hosts **release artifacts and community coordination** — the SCAAI source code is not published here.
+
+---
 
 ## Releases
 
@@ -65,6 +74,20 @@ Download from the [v5.3.6 release](https://github.com/Nooran3994/SCAAI-COMMUNITY
 Semantic versioning. Every release must bump the version — the updater compares tags,
 so shipping the same version twice silently skips the update for existing installs.
 
+---
+
+## Community
+
+This repository is the coordination hub for the SCAAI community:
+
+- **Reviews** — tell us what works and what is missing ([template](https://github.com/Nooran3994/SCAAI-COMMUNITY/issues/new?template=review_share.md))
+- **Bugs** — report issues with clear reproduction steps ([template](https://github.com/Nooran3994/SCAAI-COMMUNITY/issues/new?template=bug_report.md))
+- **Features** — shape the next version ([template](https://github.com/Nooran3994/SCAAI-COMMUNITY/issues/new?template=feature_request.md))
+- **Roadmap** — see what is planned ([ROADMAP.md](ROADMAP.md))
+- **Contribute** — improve docs and README via pull request ([CONTRIBUTING.md](CONTRIBUTING.md))
+
+All community interaction is governed by our [Code of Conduct](CODE_OF_CONDUCT.md).
+
 ## License & Terms
 
 - [LICENSE](LICENSE) — MIT License
@@ -82,6 +105,10 @@ This repository intentionally contains **only**:
 - `TERMS.md`
 - `README.md`
 - `SECURITY.md`
+- `CONTRIBUTING.md`
+- `ROADMAP.md`
+- `CODE_OF_CONDUCT.md`
+- `.github/` (issue + PR templates)
 - `release/<version>/latest.yml` (auto-update index)
 
 **Installers and update artifacts are distributed exclusively via GitHub Releases** (`/releases`). No binaries are tracked in this repository.

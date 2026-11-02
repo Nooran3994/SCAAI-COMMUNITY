@@ -7,9 +7,16 @@ the Software.
 
 ## 1. License
 
-The Software is licensed under the MIT License — see the [LICENSE](LICENSE)
-file. This repository distributes **compiled release artifacts only**; the
-source code is not published here.
+The MIT license in [LICENSE](LICENSE) applies only to the community materials
+in this repository, including documentation, templates, issue templates, and
+community scripts. It does **not** grant a license to the SCAAI Desktop
+application or to the SCAAI name, logo, or other branding.
+
+These terms govern use of the compiled SCAAI Desktop release artifacts
+distributed through this repository. The application's source code is not
+published here. Nothing in this document grants rights to unpublished source
+code or to the SCAAI Marks beyond any permissions expressly provided in
+writing by the rights holder.
 
 ## 2. Automatic Updates
 
@@ -63,4 +70,4 @@ after changes constitutes acceptance of the revised terms.
 
 ---
 
-_Last updated: 2026-10-17_
+_Last updated: 2026-11-02_

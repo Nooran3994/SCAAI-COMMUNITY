@@ -90,8 +90,8 @@ All community interaction is governed by our [Code of Conduct](CODE_OF_CONDUCT.m
 
 ## License & Terms
 
-- [LICENSE](LICENSE) — MIT License
-- [TERMS.md](TERMS.md) — Terms of Use for the SCAAI Desktop release artifacts
+- [LICENSE](LICENSE) — MIT License for community materials in this repository only (including documentation, templates, issue templates, and community scripts). It does **not** license the SCAAI Desktop application or the SCAAI name, logo, and branding.
+- [TERMS.md](TERMS.md) — Terms of Use for the compiled SCAAI Desktop release artifacts.
 
 ## Security
 
@@ -99,9 +99,9 @@ See [SECURITY.md](./SECURITY.md) for vulnerability reporting and policy.
 
 ## Repository Contents
 
-This repository intentionally contains **only**:
+This repository intentionally contains community documentation and coordination files, plus release metadata. The MIT license applies only to community materials, not to the SCAAI Desktop application or SCAAI branding.
 
-- `LICENSE` (MIT)
+- `LICENSE` — MIT license for community content, with a separate trademark notice
 - `TERMS.md`
 - `README.md`
 - `SECURITY.md`
